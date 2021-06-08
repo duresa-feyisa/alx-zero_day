@@ -1,1 +1,1 @@
-Hello world
+only time
